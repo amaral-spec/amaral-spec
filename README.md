@@ -1,50 +1,43 @@
-# 👋 Olá, eu sou o Gabriel Amaral
+#  Gabriel Amaral
 
-💻 Desenvolvedor iOS focado em criar aplicativos intuitivos e bem projetados.  
-📍 Brasil  
-🚀 Trabalho principalmente com **Swift** e **SwiftUI**.
+**Desenvolvedor iOS**
+📍 Campinas, SP — Brasil
 
----
-
-## 🧠 Sobre mim
-
-Sou apaixonado por desenvolvimento iOS e gosto de transformar ideias em produtos reais.  
-Tenho experiência com **SwiftUI**, **SwiftData**, **CloudKit**, **WidgetKit**.  
-Atualmente estou aprofundando meus conhecimentos em **arquitetura de apps** e **design de interfaces**.
+Transformando ideias em produtos funcionais e bem projetados. Meu foco é o ecossistema Apple, desenvolvendo soluções nativas onde a fluidez da interface e a eficiência do código se encontram. Atualmente, explorando arquitetura de apps e design centrado no usuário.
 
 ---
 
-## 🛠️ Tecnologias que uso
+### Tecnologias
 
-- **Swift** / **SwiftUI** 
-- **CoreData** / **CloudKit** / **SwiftData**
-- **MySQL**  
-- **GitHub** / **Xcode**
+**Linguagem & UI**
+Swift • SwiftUI
 
----
+**Dados & Nuvem**
+SwiftData • CoreData • CloudKit • MySQL
 
-## 📱 Projetos em destaque
-
-### 🧑‍🏫 Os Vigaristas
-Aplicativo iOS para professores e alunos, com autenticação, gerenciamento de grupos e tarefas.  
-🔗 [Ver no GitHub](https://github.com/amaral-spec/OsVigaristas)
-
-### 📔 Diário Emocional
-App de diário feito em SwiftUI, com registro de emoções e interface minimalista.  
-🔗 [Ver no GitHub](https://github.com/amaral-spec/diario-emocional)
-
-### 🌠 StarTrack  
-Aplicativo iOS voltado para entusiastas da astronomia, permitindo explorar constelações, planetas e eventos celestes de forma interativa.  
-🔗 [Ver no GitHub](https://github.com/amaral-spec/StarTrack)
+**Ecossistema**
+WidgetKit • Xcode • GitHub
 
 ---
 
-## 📫 Contato
+### Projetos
 
-- ✉️ [gabrielamaral1301@gmail.com](mailto:gabrielamaral1301@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-amaral-9a76b7208/)  
+**[Os Vigaristas](https://github.com/amaral-spec/OsVigaristas)**
+Gestão acadêmica simplificada. Um ambiente integrado para professores e alunos, focado na organização de grupos e tarefas com autenticação.
+
+**[Diário Emocional](https://github.com/amaral-spec/diario-emocional)**
+O registro em sua forma mais simples. Uma interface minimalista construída em SwiftUI para o acompanhamento diário de emoções e humor.
+
+**[StarTrack](https://github.com/amaral-spec/StarTrack)**
+O universo na palma da mão. Aplicativo interativo para entusiastas da astronomia explorarem constelações, planetas e eventos celestes.
 
 ---
 
-> “A tecnologia é mais bonita quando simplifica a vida das pessoas.”  
-> — *Gabriel Amaral*
+### Contato
+
+[Email](mailto:gabrielamaral1301@gmail.com) ↗
+[LinkedIn](https://www.linkedin.com/in/gabriel-amaral-9a76b7208/) ↗
+
+---
+
+> *"A tecnologia é mais bonita quando simplifica a vida das pessoas."*
