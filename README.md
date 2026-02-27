@@ -10,29 +10,29 @@ Transformando ideias em produtos funcionais e bem projetados. Meu foco é o ecos
 ### Tecnologias
 
 **Linguagem & UI**
-Swift • SwiftUI
+- Swift • SwiftUI
 
 **Dados & Nuvem**
-SwiftData • CoreData • CloudKit
+- SwiftData • CoreData • CloudKit
 
 **Ecossistema**
-WidgetKit • Xcode
+- WidgetKit • Xcode
 
 **Versionamento**
-GitHub
+- GitHub
 
 ---
 
 ### Projetos
 
 **[Dingo](https://github.com/amaral-spec/OsVigaristas)**
-Gestão acadêmica simplificada. Um ambiente integrado para professores e alunos, focado na organização de grupos e tarefas com autenticação.
+- Gestão acadêmica simplificada. Um ambiente integrado para professores e alunos, focado na organização de grupos e tarefas com autenticação.
 
 **[Emotional Gallery](https://github.com/amaral-spec/diario-emocional)**
-O registro em sua forma mais simples. Uma interface minimalista construída em SwiftUI para o acompanhamento diário de emoções e humor.
+- O registro em sua forma mais simples. Uma interface minimalista construída em SwiftUI para o acompanhamento diário de emoções e humor.
 
 **[StarTrack](https://github.com/amaral-spec/StarTrack)**
-O universo na palma da mão. Aplicativo interativo para entusiastas da astronomia explorarem constelações, planetas e eventos celestes.
+- O universo na palma da mão. Aplicativo interativo para entusiastas da astronomia explorarem constelações, planetas e eventos celestes.
 
 ---
 
