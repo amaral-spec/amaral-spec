@@ -1,46 +1,57 @@
 #  Gabriel Amaral
 
-**Desenvolvedor iOS**
-📍 Campinas, SP — Brasil
+**iOS Developer**
+📍 Campinas, SP — Brazil
 
-Transformando ideias em produtos funcionais e bem projetados. Meu foco é o ecossistema Apple, desenvolvendo soluções nativas onde a fluidez da interface e a eficiência do código se encontram. Atualmente, explorando arquitetura de apps e design centrado no usuário.
-
----
-
-### Tecnologias
-
-**Linguagem & UI**
-- Swift • SwiftUI
-
-**Dados & Nuvem**
-- SwiftData • CoreData • CloudKit
-
-**Ecossistema**
-- WidgetKit • Xcode
-
-**Versionamento**
-- GitHub
+Transforming ideas into functional and well-designed products. My focus is the Apple ecosystem, developing native solutions where interface fluidity and code efficiency meet. Currently exploring app architecture and user-centered design.
 
 ---
 
-### Projetos
+### Technologies
 
-**[Dingo](https://github.com/amaral-spec/OsVigaristas)**
-- Gestão acadêmica simplificada. Um ambiente integrado para professores e alunos, focado na organização de grupos e tarefas com autenticação.
+**Language & UI**
+
+* Swift • SwiftUI
+
+**Data & Cloud**
+
+* SwiftData • CoreData • CloudKit
+
+**Ecosystem**
+
+* WidgetKit • Xcode
+
+**Versioning**
+
+* GitHub
+
+---
+
+### Projects
+
+**[Dingo](https://github.com/amaral-spec/The-Ordeal)**
+
+* Simplified academic management. An integrated environment for teachers and students, focused on organizing groups and tasks with authentication.
 
 **[Emotional Gallery](https://github.com/amaral-spec/diario-emocional)**
-- O registro em sua forma mais simples. Uma interface minimalista construída em SwiftUI para o acompanhamento diário de emoções e humor.
+
+* Recording in its simplest form. A minimalist interface built with SwiftUI for daily tracking of emotions and mood.
 
 **[StarTrack](https://github.com/amaral-spec/StarTrack)**
-- O universo na palma da mão. Aplicativo interativo para entusiastas da astronomia explorarem constelações, planetas e eventos celestes.
+
+* The universe in the palm of your hand. An interactive app for astronomy enthusiasts to explore constellations, planets, and celestial events.
+
+**[InnerWave - WWDC26](https://github.com/amaral-spec/WWDC26)**
+
+* A short experience that seeks to raise awareness of how a person with ASD deals with the information around them.
 
 ---
 
-### Contato
+### Contact
 
 [Email](mailto:gabrielamaral1301@gmail.com) ↗
 [LinkedIn](https://www.linkedin.com/in/gabriel-amaral-9a76b7208/) ↗
 
 ---
 
-> *"A tecnologia é mais bonita quando simplifica a vida das pessoas."*
+> *"Technology is more beautiful when it simplifies people's lives."*
