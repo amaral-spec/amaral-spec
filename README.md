@@ -11,19 +11,11 @@ Transforming ideas into functional and well-designed products. My focus is the A
 
 **Language & UI**
 
-* Swift • SwiftUI
+* Swift • SwiftUI • Typescript
 
 **Data & Cloud**
 
-* SwiftData • CoreData • CloudKit
-
-**Ecosystem**
-
-* WidgetKit • Xcode
-
-**Versioning**
-
-* GitHub
+* SwiftData • CoreData • CloudKit • AWS DynamoDB
 
 ---
 
