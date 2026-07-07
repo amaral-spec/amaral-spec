@@ -37,6 +37,10 @@ Transforming ideas into functional and well-designed products. My focus is the A
 
 * A short experience that seeks to raise awareness of how a person with ASD deals with the information around them.
 
+**[Bolso - AppStore](https://apps.apple.com/br/app/bolso/id6759965476?l=en-GB)**
+
+* Bolso — personal finance app, published on the App Store, built solo with SwiftUI and Core Data.
+
 ---
 
 ### Contact
