@@ -39,7 +39,7 @@ Transforming ideas into functional and well-designed products. My focus is the A
 
 **[Bolso - AppStore](https://apps.apple.com/br/app/bolso/id6759965476?l=en-GB)**
 
-* Bolso — personal finance app, published on the App Store, built solo with SwiftUI and Core Data.
+* Bolso — personal finance app, published on the App Store, built solo with SwiftUI and SwiftData.
 
 ---
 
