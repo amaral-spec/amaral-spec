@@ -48,7 +48,7 @@ Transforming ideas into functional and well-designed products. My focus is the A
 ### Contact
 
 [Email](mailto:gabrielamaral1301@gmail.com) ↗
-[LinkedIn](https://www.linkedin.com/in/gabriel-amaral-9a76b7208/) ↗
+[LinkedIn](https://www.linkedin.com/in/gabriel-amaral-dev/) ↗
 
 ---
 
